@@ -10,7 +10,7 @@ TwitchVideoFinder
 
 Найденные видеозаписи можно добавлять в группы для их последующего просмотра.
 
-##### Apk файл приложения можно скачать [здесь](https://mega.nz/#F!VqIFFKDJ!x3KXS9VQXUFshskKu_R_4w).
+#### Apk файл приложения можно скачать [здесь](https://mega.nz/#F!VqIFFKDJ!x3KXS9VQXUFshskKu_R_4w).
 
 #### Скриншоты:
 
