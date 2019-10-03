@@ -12,6 +12,8 @@ TwitchVideoFinder
 
 Apk файл приложения можно скачать [здесь](https://mega.nz/#F!VqIFFKDJ!x3KXS9VQXUFshskKu_R_4w)
 
+#### Скриншоты:
+
 ![](screenshots/1.jpg)
 ![](screenshots/2.jpg)
 ![](screenshots/3.jpg)
