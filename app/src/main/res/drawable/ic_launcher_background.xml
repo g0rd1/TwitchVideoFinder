@@ -1,0 +1,10 @@
+<vector xmlns:android = "http://schemas.android.com/apk/res/android"
+	android:width = "108dp"
+	android:height = "108dp"
+	android:viewportWidth = "1080"
+	android:viewportHeight = "1080">
+	<path
+		android:name = "Прямоугольник, скругл. углы 2"
+		android:fillColor = "#E8EAF6"
+		android:pathData = "m180 180h720v720h-720v-720z" />
+</vector>

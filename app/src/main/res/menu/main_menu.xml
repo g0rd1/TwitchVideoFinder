@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android = "http://schemas.android.com/apk/res/android"
+	xmlns:app = "http://schemas.android.com/apk/res-auto">
+
+	<item
+		android:id = "@+id/main_menu_search_parameters"
+		android:icon = "@android:drawable/ic_menu_search"
+		android:title = "@string/main_menu_search_parameters_title"
+		app:showAsAction = "ifRoom" />
+	<item
+		android:id = "@+id/main_menu_add_group"
+		android:icon = "@android:drawable/ic_menu_add"
+		android:title = "@string/main_menu_add_group_title"
+		app:showAsAction = "ifRoom" />
+	<item
+		android:id = "@+id/main_menu_about"
+		android:icon = "@android:drawable/ic_menu_info_details"
+		android:title = "@string/main_menu_about_title"
+		app:showAsAction = "ifRoom" />
+</menu>

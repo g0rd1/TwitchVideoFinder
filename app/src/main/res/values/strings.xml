@@ -1,0 +1,128 @@
+<resources>
+	<string name = "app_name">TwitchVideoFinder</string>
+
+	<string name = "title_search">Поиск</string>
+	<string name = "title_groups">Группы</string>
+
+	<string name = "save_video_dialog_message">Выберите группу для сохранения видео</string>
+	<string name = "save_video_dialog_positive_choice">Добавить</string>
+	<string name = "save_video_dialog_negative_choice">Отмена</string>
+
+	<string name = "edit_group_name_dialog_message">Введите новое для группы \"%s\"</string>
+	<string name = "edit_group_name_dialog_positive_choice">Изменить</string>
+	<string name = "edit_group_name_dialog_negative_choice">Отмена</string>
+	<string name = "edit_group_name_textbox_hint">Новое имя группы</string>
+
+	<string name = "delete_group_dialog_message">
+		Удаление группы приведёт к удалению всех видео,
+		находящихся в этой группе.\nУдалить группу \"%s\"?
+	</string>
+	<string name = "delete_group_dialog_positive_choice">Удалить</string>
+	<string name = "delete_group_dialog_negative_choice">Отмена</string>
+
+	<string name = "add_group_dialog_message">Введите имя новой группы</string>
+	<string name = "add_group_dialog_positive_choice">Создать</string>
+	<string name = "add_group_dialog_negative_choice">Отмена</string>
+	<string name = "add_group_textbox_hint">Имя новой группы</string>
+
+	<string name = "app_dialog_default_positive_choice">Ок</string>
+	<string name = "app_dialog_default_negative_choice">Отмена</string>
+
+	<string name = "videos_list_item_thumbnail_content_description">
+		Превью видео
+	</string>
+	<string name = "videos_list_item_add_to_group_button_content_description">
+		Добавить видео в группу
+	</string>
+	<string name = "groups_list_item_edit_content_description">
+		Редактировать название группы
+	</string>
+	<string name = "groups_list_item_delete_content_description">
+		Удалить группу
+	</string>
+
+	<string name = "hello_blank_fragment">Hello blank fragment</string>
+	<string name = "main_menu_search_parameters_title">Параметры поиска</string>
+	<string name = "main_menu_add_group_title">Добавить группу</string>
+	<string name = "filters_type_textview_text">Тип видео:</string>
+	<string name = "filters_period_textview_text">Период:</string>
+	<string name = "filters_language_textview_text">Язык:</string>
+	<string name = "filters_sort_order_textview_text">Сортировать по:</string>
+	<string name = "filters_game_name_textview_text">Название игры:</string>
+	<string name = "filters_search_text">Поиск</string>
+
+	<string name = "period_day">День</string>
+	<string name = "period_week">Неделя</string>
+	<string name = "period_month">Месяц</string>
+	<string name = "period_all">Всё время</string>
+
+	<string name = "language_any">Любой</string>
+	<string name = "language_ru">Русский</string>
+	<string name = "language_en">Английский</string>
+
+	<string name = "type_any">Любой</string>
+	<string name = "type_archive">Запись</string>
+	<string name = "type_highlight">Клип</string>
+
+	<string name = "sort_order_views">Просмотры</string>
+	<string name = "sort_order_time">Время</string>
+
+	<string name = "period_day_parameter">day</string>
+	<string name = "period_week_parameter">week</string>
+	<string name = "period_month_parameter">month</string>
+	<string name = "period_all_parameter">all</string>
+
+	<string name = "language_any_parameter"></string>
+	<string name = "language_ru_parameter">ru</string>
+	<string name = "language_en_parameter">en</string>
+
+	<string name = "type_any_parameter">all</string>
+	<string name = "type_archive_parameter">archive</string>
+	<string name = "type_highlight_parameter">highlight</string>
+
+	<string name = "sort_order_views_parameter">views</string>
+	<string name = "sort_order_time_parameter">time</string>
+
+	<string name = "views_reduction">просм.</string>
+	<string name = "filters_minimize_content_description">
+		Свернуть окно параметров поиска
+	</string>
+
+	<string name = "videos_not_found_message">
+		Не удалось найти видеозаписи по данному запросу.\nПопробуйте
+		поменять параметры поиска.
+	</string>
+
+	<string name = "game_not_found_message">
+		Не удалось найти игру с введёным названием.\nИгры с этим названием
+		нет в базе данных Twitch или её название введено неверно.
+	</string>
+	<string name = "change_game_name_snackbar_action">Изменить</string>
+
+	<string name = "twitch_connection_problem_message">
+		Не удалось подключиться к серверам twitch.\nУбедитесь в наличии
+		интернет подключения и повторите попытку позже.
+	</string>
+	<string name = "filters_game_name_plain_text">Введите название игры</string>
+
+	<string name = "game_name_not_entered_message">Пожалуйста, введите название игры</string>
+
+	<string name = "group_already_have_this_video_message">
+		Данное видео уже добавленно в группу \"%s\"
+	</string>
+	<string name = "group_name_not_entered_message">
+		Имя группы не может быть пустым
+	</string>
+	<string name = "group_with_entered_name_already_exist_message">
+		Группа с именем \"%s\" уже существует
+	</string>
+	<string name = "group_do_not_contain_videos">Группа \"%s\" не содержит видео</string>
+	<string name = "about_text">
+		Это приложение позволяет производить поиск по записям стримов и
+		клипов видеостримингового сервиса Twitch. Найденные видеозаписи
+		можно добавлять в группы для их последующего просмотра.\nУдачного Поиска!
+	</string>
+	<string name = "about_author">Автор: Игорь Гордеев</string>
+	<string name = "about_contacts">Связь с автором:\ngordigev@gmail.com</string>
+	<string name = "main_menu_about_title">О приложении</string>
+</resources>

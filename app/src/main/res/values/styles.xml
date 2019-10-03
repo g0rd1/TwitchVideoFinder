@@ -1,0 +1,41 @@
+<resources>
+
+	<!-- Base application theme. -->
+	<style name = "AppTheme" parent = "Theme.AppCompat.Light.DarkActionBar">
+		<!-- Customize your theme here. -->
+		<item name = "colorPrimary">@color/colorPrimary</item>
+		<item name = "colorPrimaryDark">@color/colorPrimaryDark</item>
+		<item name = "android:textColorPrimary">@color/colorPrimaryText</item>
+		<item name = "android:textColorSecondary">@color/colorSecondaryText</item>
+		<item name = "android:icon">@color/colorIcons</item>
+		<item name = "colorAccent">@color/colorAccent</item>
+		<item name = "actionBarDivider">@color/colorActionBarDivider</item>
+		<item name = "android:windowBackground">@color/colorPrimaryLight</item>
+	</style>
+
+	<style name = "AppTheme.NoActionBar">
+		<item name = "windowActionBar">false</item>
+		<item name = "windowNoTitle">true</item>
+	</style>
+
+	<!--	<style name = "AppDialogTheme" parent = "Theme.AppCompat.Dialog.Alert">-->
+	<style name = "AppDialogTheme" parent = "ThemeOverlay.AppCompat.Dialog.Alert">
+		<item name = "android:background">@color/colorAlertDialogBackground</item>
+		<item name = "android:textColorPrimary">@color/colorPrimaryTextOnDarkBackground</item>
+		<item name = "buttonBarNegativeButtonStyle">@style/NegativeButtonStyle</item>
+		<item name = "buttonBarPositiveButtonStyle">@style/PositiveButtonStyle</item>
+	</style>
+
+	<style name = "AppTheme.AppBarOverlay" parent = "ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+	<style name = "AppTheme.PopupOverlay" parent = "ThemeOverlay.AppCompat.Light" />
+
+	<style name = "NegativeButtonStyle" parent = "Widget.AppCompat.Button.ButtonBar.AlertDialog">
+		<item name = "android:textColor">@color/colorAccent</item>
+	</style>
+
+	<style name = "PositiveButtonStyle" parent = "Widget.AppCompat.Button.ButtonBar.AlertDialog">
+		<item name = "android:textColor">@color/colorAccent</item>
+	</style>
+
+</resources>

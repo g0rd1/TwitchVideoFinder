@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<string-array name = "period">
+		<item>@string/period_day</item>
+		<item>@string/period_week</item>
+		<item>@string/period_month</item>
+		<item>@string/period_all</item>
+	</string-array>
+
+	<string-array name = "language">
+		<item>@string/language_any</item>
+		<item>@string/language_ru</item>
+		<item>@string/language_en</item>
+	</string-array>
+
+	<string-array name = "type">
+		<item>@string/type_any</item>
+		<item>@string/type_archive</item>
+		<item>@string/type_highlight</item>
+	</string-array>
+
+	<string-array name = "sort_order">
+		<item>@string/sort_order_views</item>
+		<item>@string/sort_order_time</item>
+	</string-array>
+
+	<string-array name = "period_parameter">
+		<item>@string/period_day_parameter</item>
+		<item>@string/period_week_parameter</item>
+		<item>@string/period_month_parameter</item>
+		<item>@string/period_all_parameter</item>
+	</string-array>
+
+	<string-array name = "language_parameter">
+		<item>@string/language_any_parameter</item>
+		<item>@string/language_ru_parameter</item>
+		<item>@string/language_en_parameter</item>
+	</string-array>
+
+	<string-array name = "type_parameter">
+		<item>@string/type_any_parameter</item>
+		<item>@string/type_archive_parameter</item>
+		<item>@string/type_highlight_parameter</item>
+	</string-array>
+
+	<string-array name = "sort_order_parameter">
+		<item>@string/sort_order_views_parameter</item>
+		<item>@string/sort_order_time_parameter</item>
+	</string-array>
+
+</resources>

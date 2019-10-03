@@ -1,0 +1,14 @@
+<vector xmlns:android = "http://schemas.android.com/apk/res/android"
+	android:width = "108dp"
+	android:height = "108dp"
+	android:viewportWidth = "1080"
+	android:viewportHeight = "1080">
+	<path
+		android:name = "Прямоугольник, скругл. углы 1"
+		android:fillColor = "#7C4DFF"
+		android:pathData = "m666 396c29.8 0 54 24.2 54 54v180c0 29.8 -24.2 54 -54 54h-252c-29.8 0 -54 -24.2 -54 -54v-180c0 -29.8 24.2 -54 54 -54zm-252 -70c-68.5 0 -124 55.5 -124 124v180c0 68.5 55.5 124 124 124h252c68.5 0 124 -55.5 124 -124v-180c0 -68.5 -55.5 -124 -124 -124z" />
+	<path
+		android:name = "Фигура 1"
+		android:fillColor = "#7C4DFF"
+		android:pathData = "m457.2 644.1v-208.2l210.2 104.1l-210.2 104.1z" />
+</vector>
