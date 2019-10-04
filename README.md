@@ -1,18 +1,24 @@
 TwitchVideoFinder
 =====================
 
-#### Приложение для удобного поиска клипов и записей стримов Twitch.
+Description
+--------------------
+Application for conveniently searching for Twitch clips and stream records.
 
-Доступны следующие критерии поиска:
- - Название игры
- - Тип видеозаписи
- - Временной период
+The following search criteria are available:
+ - Game name
+ - Type of video
+ - Time period
 
-Найденные видеозаписи можно добавлять в группы для их последующего просмотра.
+Found videos can be added to groups for later viewing.
 
-#### Apk файл приложения можно скачать [здесь](https://mega.nz/#F!VqIFFKDJ!x3KXS9VQXUFshskKu_R_4w).
+Download
+--------------------
 
-#### Скриншоты:
+Apk file can be downloaded [here](https://mega.nz/#F!VqIFFKDJ!x3KXS9VQXUFshskKu_R_4w).
+
+Screenshots
+--------------------
 
 ![](screenshots/1.jpg)
 ![](screenshots/2.jpg)
